@@ -12,3 +12,4 @@
 - Redis 3.0 中文版 - v1.1
 - 跟我学 Shiro - v1.1
 - 深入理解 Java 虚拟机 - v1.0
+- ngnix
