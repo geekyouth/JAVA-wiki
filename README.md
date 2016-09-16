@@ -11,6 +11,7 @@
 - Docker —— 从入门到实践 - v1.0
 - Git 教程 - v1.0.pdf   （感觉[猴子都能懂得GIT入门](http://backlogtool.com/git-guide/cn/?ref=footer) 也挺好可以查看）
 - GitHub 使用手册 - 基础篇 
+- Gradle 实战中文版 - v1.0
 - Hibernate 教程 - v1.0.pdf  
 - IntelliJ IDEA 使用教程 - v1.0.pdf  
 - Java 程序员眼中的 Linux - v1.0.pdf  
