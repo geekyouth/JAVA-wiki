@@ -4,7 +4,8 @@
 ### 不定时更新 
 ---
 
-  
+
+- AngularJS 中文版 - v1.0  
 - Java 程序员眼中的 Linux - v1.0 
 - Learning-Linux  (慕课网 linux 系列课程总结)
 - Axure RP 指南 - v1.1.pdf 
