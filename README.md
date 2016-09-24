@@ -21,6 +21,7 @@
 - Log4j 教程 - v1.0.pdf      
 - Maven 教程 - v1.0.pdf  
 - Mongodb 教程 - v1.0.pdf
+- MySQL数据库开发的三十六条军规-石展
 - Netty 4.x 用户指南 - v1.0.pdf
 - Nginx 入门指南 - v1.0.pdf
 - Redis 3.0 中文版 - v1.1.pdf 
